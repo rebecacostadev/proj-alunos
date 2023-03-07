@@ -1,0 +1,42 @@
+{
+  "frutas": [
+    {
+      "id": 1,
+      "nome": "Banana",
+      "quantidade": 12
+    },
+    {
+      "id": 2,
+      "nome": "Uva",
+      "quantidade": 24
+    },
+    {
+      "id": 3,
+      "nome": "Abacate",
+      "quantidade": 6
+    }
+  ],
+  "alunos": [
+    {
+      "nome": "Alessandro",
+      "email": "ale@gmail.com",
+      "telefone": "987876540",
+      "cidade": "Fortaleza",
+      "id": 2
+    },
+    {
+      "nome": "Rebeca Costa",
+      "email": "rebeca@gmail.com",
+      "telefone": "99614804",
+      "cidade": "Fortaleza",
+      "id": 3
+    },
+    {
+      "nome": "Anyele Ventura",
+      "email": "any@hotmail.com",
+      "telefone": "98723902",
+      "cidade": "Fortaleza",
+      "id": 4
+    }
+  ]
+}
